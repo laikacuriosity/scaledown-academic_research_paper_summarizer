@@ -31,8 +31,8 @@ streamlit run app.py
 
 ## Folder structure<br>
 ```
-├── app.py              # Main app
-└── requirements.txt    # Dependencies
+├── app.py              # Main app <br>
+└── requirements.txt    # Dependencies  <br>
 ```
 <br>
 ## Tech Stack
