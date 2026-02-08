@@ -44,15 +44,15 @@ Deployed: Streamlit Cloud<br>
 
 ## Dependencies<br>
 ```
-streamlit<br>
-streamlit-mermaid<br>
-langchain-google-genai<br>
-langchain-core<br>
-PyPDF2<br>
-docx2txt<br>
+streamlit
+streamlit-mermaid
+langchain-google-genai
+langchain-core
+PyPDF2
+docx2txt
 ```
 
-## Contribute
+## Contribute<br>
 Fork → Edit → PR
 
 
