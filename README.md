@@ -34,15 +34,14 @@ streamlit run app.py
 ├── app.py              # Main app <br>
 └── requirements.txt    # Dependencies  <br>
 ```
-<br>
-## Tech Stack
-```
+
+##Tech Stack
 Frontend: Streamlit + Mermaid.js<br>
 AI: Google Gemini 2.5 Flash<br>
 Extraction: PyPDF2 + docx2txt<br>
 Deployed: Streamlit Cloud<br>
-```<br>
-<br>
+
+
 ## Dependencies
 ```
 streamlit<br>
