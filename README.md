@@ -24,18 +24,18 @@ streamlit run app.py<br>
 For AI asisstance:<br>
 
 1. Get free Google API key: https://aistudio.google.com/app/apikey<br>
-2. Create `.streamlit/secrets.toml`:<br>
-```toml<br>
-GOOGLE_API_KEY = "your_api_key_here"<br>
-streamlit run app.py<br>
+2. Create `.streamlit/secrets.toml`:
+```toml
+GOOGLE_API_KEY = "your_api_key_here"
+streamlit run app.py
 
 ## Folder structure<br>
 ```<br>
-├── app.py              # Main app<br>
-└── requirements.txt    # Dependencies<br>
+├── app.py              # Main app
+└── requirements.txt    # Dependencies
 ```<br>
 
-## Tech Stack<br>
+## Tech Stack
 ```
 Frontend: Streamlit + Mermaid.js<br>
 AI: Google Gemini 2.5 Flash<br>
@@ -43,7 +43,7 @@ Extraction: PyPDF2 + docx2txt<br>
 Deployed: Streamlit Cloud<br>
 ```<br>
 <br>
-## Dependencies<br>
+## Dependencies
 ```
 streamlit<br>
 streamlit-mermaid<br>
@@ -53,8 +53,8 @@ PyPDF2<br>
 docx2txt<br>
 ```
 
-## Contribute<br>
-Fork → Edit → PR<br>
+## Contribute
+Fork → Edit → PR
 
 
 
