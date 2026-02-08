@@ -18,8 +18,8 @@ Download results and mindmaps<br>
 
 ## Run on Your System<br>
 
-pip install -r requirements.txt<br>
-streamlit run app.py<br>
+pip install -r requirements.txt
+streamlit run app4.py
 
 For AI asisstance:<br>
 
@@ -29,11 +29,11 @@ For AI asisstance:<br>
 GOOGLE_API_KEY = "your_api_key_here"
 streamlit run app.py
 
-## Folder structure<br>
-```<br>
+## Folder structure
+```
 ├── app.py              # Main app
 └── requirements.txt    # Dependencies
-```<br>
+```
 
 ## Tech Stack
 ```
