@@ -24,9 +24,10 @@ streamlit run app4.py
 For AI asisstance:<br>
 
 1. Get free Google API key: https://aistudio.google.com/app/apikey<br>
-2. Create `.streamlit/secrets.toml`:
+2. In the same folder, Create `.streamlit/secrets.toml`:
 ```toml
 GOOGLE_API_KEY = "your_api_key_here"
+
 streamlit run app.py
 ```
 ## Folder structure<br>
