@@ -29,12 +29,12 @@ For AI asisstance:<br>
 GOOGLE_API_KEY = "your_api_key_here"
 streamlit run app.py
 
-## Folder structure
+## Folder structure<br>
 ```
 ├── app.py              # Main app
 └── requirements.txt    # Dependencies
 ```
-
+<br>
 ## Tech Stack
 ```
 Frontend: Streamlit + Mermaid.js<br>
