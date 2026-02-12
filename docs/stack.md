@@ -23,7 +23,9 @@ The Academic Research Paper Summarizer is built using a modern, scalable AI-powe
 - Context-aware summarization
 - Structured concept extraction
 
----
+
+
+
 
 ### 📄 Document Processing
 
