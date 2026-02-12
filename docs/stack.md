@@ -1,14 +1,13 @@
----
+
 title: Tech Stack
----
 
 # 🔧 Production Architecture
 
 The Academic Research Paper Summarizer is built using a modern, scalable AI-powered architecture designed for performance and reliability.
 
----
 
-## 🏗️ Full Stack Overview
+
+## Full Stack Overview
 
 ### 🎨 Frontend
 **Streamlit**
@@ -16,7 +15,7 @@ The Academic Research Paper Summarizer is built using a modern, scalable AI-powe
 - Real-time processing
 - Clean academic interface
 
----
+
 
 ### 🧠 AI Engine
 **Hugging Face Transformers**
@@ -32,7 +31,7 @@ The Academic Research Paper Summarizer is built using a modern, scalable AI-powe
 - **python-docx (1.x)** – DOCX file handling  
 - Native text and code file processing  
 
----
+
 
 ### 🗺️ Visualization Engine
 **Mermaid.js (10.x)**
@@ -40,7 +39,7 @@ The Academic Research Paper Summarizer is built using a modern, scalable AI-powe
 - Native `.mmd` export format  
 - Compatible with documentation systems  
 
----
+
 
 ### ☁️ Deployment Infrastructure
 **Streamlit Cloud**
@@ -49,7 +48,7 @@ The Academic Research Paper Summarizer is built using a modern, scalable AI-powe
 - Zero-config deployment  
 - Custom subdomain support  
 
----
+
 
 ## 📦 Core Technologies
 
@@ -62,7 +61,7 @@ The Academic Research Paper Summarizer is built using a modern, scalable AI-powe
 | Visualization| Mermaid.js            | 10.x     |
 | Deployment   | Streamlit Cloud       | Managed  |
 
----
+
 
 ## ⚙️ Zero Dependencies for Users
 
@@ -74,7 +73,6 @@ Users do **not** need to install anything.
 -  Instant browser access  
 -  Works on any device  
 
----
 
 !!! note
     Designed for simplicity on the user side, power on the backend.
