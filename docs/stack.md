@@ -1,6 +1,4 @@
 
-title: Tech Stack
-
 # 🔧 Production Architecture
 
 The Academic Research Paper Summarizer is built using a modern, scalable AI-powered architecture designed for performance and reliability.
