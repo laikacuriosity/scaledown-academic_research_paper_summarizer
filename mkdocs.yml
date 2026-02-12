@@ -2,3 +2,13 @@ site_name: Academic Research Paper Summarizer
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Quick Start: quickstart.md
+  - Exports: exports.md
+  - Tech Stack: techstack.md
+  - Formats: formats.md
+  - FAQ: faq.md
+  - Demo: demo.md
